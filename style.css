@@ -1,0 +1,23 @@
+.container-fluid{
+
+    background-color:rgb(242, 242, 242);
+    padding-bottom:20px;
+    font-family:"SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+  }
+
+  h1, p {
+
+    line-height: 1.05;
+    font-weight: 600;
+    letter-spacing: -.015em;
+    text-align: center;
+  }
+ .card{
+    display: flex;
+    box-shadow: 5px 10px 10px;
+ }
+ .btn{
+    font-family:"SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-weight: 400;
+    letter-spacing: -.015em;
+ }
